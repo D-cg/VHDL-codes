@@ -76,7 +76,7 @@ begin
             gcd=>gcd_out
     ); 
     U5: entity work.X7seg port map(
-            x =>gcd_out,
+            xin =>gcd_out,
             cclk=>clock_1hz, 
             clr=>btn3, 
             a_to_g=> a_to_g, 

@@ -34,7 +34,7 @@ use ieee.std_logic_unsigned.all;
 
 entity X7seg is
 Port (
-        x : in STD_LOGIC_VECTOR (15 downto 0);
+        xin : in STD_LOGIC_VECTOR (3 downto 0);
          cclk,clr : in STD_LOGIC;
          a_to_g : out STD_LOGIC_VECTOR (6 downto 0);
          an : out STD_LOGIC_VECTOR (3 downto 0)
@@ -42,6 +42,7 @@ Port (
 end X7seg;
 
 architecture Behavioral of X7seg is
+ signal x: STD_LOGIC_VECTOR (15 downto 0);
 signal digit : std_logic_vector (3 downto 0);
     signal count : std_logic_vector (1 downto 0);
     signal aen : std_logic_vector (3 downto 0);
@@ -50,6 +51,7 @@ signal digit : std_logic_vector (3 downto 0);
     signal clk190 : std_logic;
 begin
     --Divisor de frecuencia
+    x<= ("000000000000" & xin);
     count_1 <= count_1+1 when rising_edge(cclk);
     clk190 <= count_1(17);
     --control de display en blanco
