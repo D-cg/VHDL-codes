@@ -1,0 +1,21 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sim_1/new/Top_top_TB.vhd,1696752460,vhdl,,,,top_top_tb,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/imports/new/X7seg.vhd,1696749074,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/Top_top.vhd,,,x7seg,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/imports/new/clk_divisor.vhd,1696202771,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/Top_top.vhd,,,clk_divisor,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/imports/new/clk_pulse.vhd,1696196774,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/Top_top.vhd,,,clk_pulse,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/imports/new/debounce.vhd,1696210273,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/Top_top.vhd,,,debounce,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/imports/new/mux2_display.vhd,1696744898,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/top_algorithm.vhd,,,mux2_display,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/imports/new/test1.vhd,1696729638,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/top_algorithm.vhd,,,test1,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/Areg.vhd,1696733287,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/top_algorithm.vhd,,,areg,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/Nregister.vhd,1696733287,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/top_algorithm.vhd,,,nregister,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/Top_top.vhd,1696749497,vhdl,,,,top_top,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/control_unit.vhd,1696746175,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/top_algorithm.vhd,,,control_unit,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/fact_mux.vhd,1696746600,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/top_algorithm.vhd,,,fact_mux,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/ireg.vhd,1696733287,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/top_algorithm.vhd,,,ireg,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/operation.vhd,1696730216,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/top_algorithm.vhd,,,operation,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/out_reg.vhd,1696746711,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/top_algorithm.vhd,,,out_reg,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/test2.vhd,1696729638,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/top_algorithm.vhd,,,test2,,,,,,,,
+C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/top_algorithm.vhd,1696749497,vhdl,C:/Users/usuario/Factorial_Algorithm_/Factorial_Algorithm_.srcs/sources_1/new/Top_top.vhd,,,top_algorithm,,,,,,,,
